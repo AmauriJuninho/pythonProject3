@@ -51,6 +51,7 @@ while True:
 
         else:
             print("Opção inválida. Por favor, escolha uma opção válida.")
+            2
 
 
 
